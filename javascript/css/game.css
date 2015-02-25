@@ -1,0 +1,29 @@
+		body {
+		
+			font-family:Verdana, Geneva, sans-serif;
+			background-color:#FFFF00;
+
+		}
+
+		
+		#results, time {
+		
+
+			top:15%;
+			position:fixed;
+			font-weight:bold;
+
+
+			
+		}
+		
+		#box {
+		
+			position:relative;
+		}
+		
+		p {
+		
+			font-weight:normal;
+		}
+		
